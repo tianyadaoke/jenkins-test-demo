@@ -9,5 +9,7 @@
 </h1>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
+<h2>只要看到此页面说明部署成功了，version2版本</h2>
+<a href="">添加用户</a>
 </body>
 </html>
